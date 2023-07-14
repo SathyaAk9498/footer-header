@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+font-family: Arial, Helvetica, sans-serif;
+background-image: url(images/the-flash-ezra-miller-michael-keaton-sasha-calle.avif);
+background-size: cover;
+width: 100%;
+}
+span{
+    .color:aqua;
+}
+header,footer{
+    position: absolute;
+    background-color: black;
+    width: 100%;
+    color: white;
+}
+header h2{
+    position: absolute;
+    margin-top: 20px;
+    left:4%;
+    top:-6px;
+}
+header{
+    height:9vh;
+}
+footer{
+    height: 15vh;
+    bottom: 0;
+}
+footer h2{
+position: absolute;
+left: 39%;
+text-align: center;
+top: 33px;
+}
+.nav{
+    position: absolute;
+    width: 100%;
+}
+.nav a{
+    position: relative;
+    left:55%;
+    top:20px;
+    color: azure;
+    text-decoration:none;
+    margin-right: 29px;
+    font-size: large;
+}
+.layout{
+position: absolute;
+text-decoration: none;
+bottom: 30px;
+color: white;
+left: 70%;
+position: absolute;
+top: 10PX;
+font-weight: bold;
+}
+.layout a{
+    text-decoration: none;
+    display: block;
+    color: white;
+}
+.layout i{
+    border-radius: 40%;
+    color: white;
+}
